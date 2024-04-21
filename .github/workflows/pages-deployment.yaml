@@ -1,4 +1,4 @@
-on: [push]
+name: Deploy to Production
 jobs:
   deploy:
     runs-on: ubuntu-latest
